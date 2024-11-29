@@ -1,0 +1,34 @@
+# PlatformIO specific files
+.pio/
+*.bin
+*.elf
+*.hex
+*.map
+
+# VSCode specific files
+.vscode/
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch
+
+# MacOS specific
+.DS_Store
+
+# Linux specific
+*.swp
+*.swo
+
+# Windows specific
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+*.gz
+*.xz
+
+# Python cache files (if custom scripts are used)
+__pycache__/
+*.pyc
+*.pyo
